@@ -1,0 +1,4 @@
+*.xlsx
+*.pkl
+*.zip
+.DS_Store

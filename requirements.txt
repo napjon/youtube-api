@@ -1,0 +1,6 @@
+pandas
+requests
+joblib
+sqlalchemy
+pymysql
+scikit-learn
